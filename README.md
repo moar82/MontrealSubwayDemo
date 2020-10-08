@@ -1,9 +1,8 @@
 # Montreal Subway Demo
 
-THIS PROJECT IS a modified version for Montreal subway system.
-The original code is taken from [Head First Object-Oriented Analysis and Design](https://resources.oreilly.com/examples/9780596008673/tree/master/chapter10)
+The code in this repository is a modified version of [Head First Object-Oriented Analysis and Design](https://resources.oreilly.com/examples/9780596008673/tree/master/chapter10) to adapte it to work with the Montreal subway.
 
-CH. 10,  McLaughlin, Brett, Gary Pollice, and David West. 
+More info, see: CH. 10,  McLaughlin, Brett, Gary Pollice, and David West. 
 Head First Object-Oriented Analysis and Design." O'Reilly Media, Inc.", 2007.
 for learning purposes only.
 
