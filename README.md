@@ -4,5 +4,5 @@ The code in this repository is a modified version of [Head First Object-Oriented
 
 More info, see: CH. 10,  McLaughlin, Brett, Gary Pollice, and David West. 
 Head First Object-Oriented Analysis and Design." O'Reilly Media, Inc.", 2007.
-for learning purposes only.
+For learning purposes only.
 
